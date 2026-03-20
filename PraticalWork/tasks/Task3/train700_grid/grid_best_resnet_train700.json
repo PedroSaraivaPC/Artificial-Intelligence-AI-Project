@@ -1,0 +1,13 @@
+{
+    "melhor_accuracy": 0.9340000152587891,
+    "parametros_descodificados": {
+        "units": 512,
+        "lr": 0.0003,
+        "dropout": 0.5
+    },
+    "parametros_raw_0_1": [
+        512,
+        0.0003,
+        0.5
+    ]
+}

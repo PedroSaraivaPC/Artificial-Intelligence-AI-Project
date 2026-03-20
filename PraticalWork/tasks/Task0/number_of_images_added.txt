@@ -1,0 +1,41 @@
+-------------------------------------
+train
+
+    Convertible, 1500
+    Coupe, 1500
+    Hatchback, 1500
+    Pick-Up, 1500
+    Sedan, 1500
+    SUV, 1500
+    VAN, 1500
+
+train total: 7500
+percent ratio: 70,10%
+-------------------------------------
+valid
+
+    Convertible, 320
+    Coupe, 320
+    Hatchback, 320
+    Pick-Up, 320
+    Sedan, 320
+    SUV, 320
+    VAN, 320
+
+valid total: 1600
+percent ratio: 14,95%
+-------------------------------------
+test
+
+    Convertible, 320
+    Coupe, 320
+    Hatchback, 320
+    Pick-Up, 320
+    Sedan, 320
+    SUV, 320
+    VAN, 320
+
+test total: 1600
+percent ratio: 14,95%
+-------------------------------------
+total: 10700

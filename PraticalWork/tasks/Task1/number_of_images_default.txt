@@ -1,0 +1,125 @@
+-----------------------------
+train
+
+	Convertible, 811
+	Coupe, 721
+	Hatchback, 701
+	Sedan, 729
+	SUV, 847
+train total: 3809
+percent ratio: 
+-----------------------------
+valid
+
+	Convertible, 292
+	Coupe, 106
+	Hatchback, 176
+	Sedan, 170
+	SUV, 274
+valid total: 1018
+percent ratio: 
+-----------------------------
+test
+
+	Convertible, 174
+	Coupe, 79
+	Hatchback, 99
+	Sedan, 109
+	SUV, 125
+test total: 586
+percent ratio: 
+-----------------------------
+
+total: 5413
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------
+train
+
+	Convertible, 1536
+	Coupe, 1482
+	Hatchback, 1088
+	Sedan, 2063
+	SUV, 1852
+train total: 8021
+percent ratio: 70.13%
+-----------------------------
+valid
+
+	Convertible, 447
+	Coupe, 269
+	Hatchback, 259
+	Sedan, 456
+	SUV, 489
+valid total: 1920
+percent ratio: 16.79%
+-----------------------------
+test
+
+	Convertible, 330 
+	Coupe, 243
+	Hatchback, 183
+	Sedan, 396
+	SUV, 342
+test total: 1494
+percent ratio: 13.07%
+-----------------------------
+
+total: 11435
+
+
+
+
+
+
+
+-----------------------------
+train
+
+	Convertible, 1524 → 20.0%
+	Coupe, 1396 → 18.4%
+	Hatchback, 1402 → 18.4%
+	Sedan, 1671 → 22.0%
+	SUV, 1608 → 21.1%
+train total: 7601
+percent ratio: 69.9%
+-----------------------------
+valid
+
+	Convertible, 327 → 19.9%
+	Coupe, 299 → 18.2%
+	Hatchback, 326 → 19.9%
+	Sedan, 342 → 20.8%
+	SUV, 348 → 21.2%
+valid total: 1642
+percent ratio: 15.1%
+-----------------------------
+test
+
+	Convertible, 326 → 20.0%
+	Coupe, 299 → 18.3%
+	Hatchback, 325 → 19.9%
+	Sedan, 339 → 20.8%
+	SUV, 342 → 21.0%
+test total: 1631
+percent ratio: 15.0%
+-----------------------------
+
+total: 10874
