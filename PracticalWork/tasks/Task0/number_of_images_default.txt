@@ -1,0 +1,39 @@
+-----------------------------
+train
+
+	Convertible, 811
+	Coupe, 721
+	Hatchback, 701
+	Pick-Up, 759
+	Sedan, 729
+	SUV, 847
+	VAN, 782
+train total: 5350
+percent ratio: 70.87 %
+-----------------------------
+valid
+
+	Convertible, 292
+	Coupe, 106
+	Hatchback, 176
+	Pick-Up, 217
+	Sedan, 170
+	SUV, 274
+	VAN, 162
+valid total: 1397
+percent ratio: 18.51 %
+-----------------------------
+test
+
+	Convertible, 174
+	Coupe, 79
+	Hatchback, 99
+	Pick-Up, 110
+	Sedan, 109
+	SUV, 125
+	VAN, 106
+test total: 802
+percent ratio: 10.62 %
+-----------------------------
+
+total: 7549
